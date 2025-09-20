@@ -1,2 +1,5 @@
 .idea
 /config.js
+config.js
+*.log
+node_modules/
