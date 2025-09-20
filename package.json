@@ -1,0 +1,24 @@
+{
+  "name": "kindle-weather-dashboard",
+  "version": "1.0.0",
+  "description": "Simple webpage with weather information.",
+  "main": "config.js",
+  "scripts": {
+    "build": "echo 'no build step, static files ready'"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reehassan/kindle-weather-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reehassan/kindle-weather-dashboard/issues"
+  },
+  "homepage": "https://github.com/reehassan/kindle-weather-dashboard#readme"
+}
+
